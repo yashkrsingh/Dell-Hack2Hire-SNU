@@ -1,0 +1,15 @@
+{
+  "short_name": "Dell eStore",
+  "name": "Dell eStore",
+  "icons": [
+    {
+      "src": "dell_logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "https://dell-estore.netlify.com",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
